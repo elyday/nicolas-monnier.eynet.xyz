@@ -1,9 +1,7 @@
-
-# Created by https://www.gitignore.io/api/jekyll
-
-### Jekyll ###
-_site/
-.sass-cache/
-.jekyll-metadata
-
-# End of https://www.gitignore.io/api/jekyll
+*Thumbs.db
+.bundle
+.sass-cache
+Gemfile.lock
+_site
+*.gem
+*.bak
