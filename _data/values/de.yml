@@ -4,10 +4,12 @@ home: Home
 tags: Tags
 archive: Archive
 categories: Kategorien
-about: About
+person: Person
 thanks: " , Powered by"
-page: Page
+page: Seite
 newer_post: Neuerer Beitrag
 older_post: Älterer Beitrag
 top_posts: Top Beiträge
 author: Autor
+cv: Lebenslauf
+news: Neuigkeiten

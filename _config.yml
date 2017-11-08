@@ -1,7 +1,7 @@
 # Jekyll configuration
 
 name: Nicolas Monnier
-description: Ihr Politiker der LA!
+description: Ihr Politiker der Linken Alternative!
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://nicolas-monnier.eynet.xyz
@@ -20,10 +20,17 @@ date_format:
 # Language
 lan: "de"
 
-paginate: 10
+pagination:
+  enabled: true
+  per_page: 3
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
+gems: ['jekyll-paginate-v2']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
