@@ -20,6 +20,8 @@ date_format:
 # Language
 lan: "de"
 
+permalink: /:year/:month/:day/:title.html
+
 pagination:
   enabled: true
   per_page: 3
