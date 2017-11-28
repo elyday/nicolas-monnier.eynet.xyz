@@ -2,7 +2,7 @@
 layout: post
 title: Volksabstimmung "Großrat und Großdruide vorübergehend vereinen"
 author: N. Monnier
-categories: 'volk, abstimmung, verfassung'
+categories: volk abstimmung verfassung
 description: >-
   Geplante Volksabstimmung zur vorübergehenden Vereinigung der Ämter des
   Großrates und Großdruiden
@@ -14,3 +14,4 @@ Als Begründung führt er an, dass auf Dauer eine nicht existente Judikative nic
 Nun sind Sie gefragt, liebe Bürgerinnen und Bürger, gehen Sie jetzt zur Urne und stimmen Sie ab! Möglich noch bis zum 5. Dezember 2017.
 
 [Abstimmen!](http://www.freie-republik.info/forum/board1-allgemeines/board2-pr%C3%ADomhbh%C3%B3thar-der-gro%C3%9Fe-rat-das-%C3%B6ffentliche-forum/board42-wahlen-und-abstimmungen/4408-volksabstimmung-gro%C3%9Frat-und-gro%C3%9Fdruide-vor%C3%BCbergehend-vereinen-abstimmung-2/)
+
