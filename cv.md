@@ -11,8 +11,9 @@ layout: page
 | Beruf        | Arbeit als Rechtsanwalt in einer Rechtsanwaltskanzlei 2004 - 2017           |
 {:.table .table-bordered}
 
-| Politisches |                                      |
-|:------------|:-------------------------------------|
-| seit 2017   | Mitglied der linken Alternativen     |
-| seit 2017   | Mitglied des Parlamentarischen Rates |
+| Politisches       |                                        |
+|:------------------|:---------------------------------------|
+| seit 2017         | Mitglied der Linken Alternative        |
+| seit 2017         | Mitglied des Parlamentarischen Rates   |
+| seit 5. März 2018 | Generalsekretär der Linken Alternative |
 {:.table .table-bordered}
