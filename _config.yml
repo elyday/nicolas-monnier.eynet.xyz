@@ -6,6 +6,8 @@ description: Ihr Politiker der Linken Alternative!
 # url is currently only used only for the RSS feed in feed.xml
 url: https://nicolas-monnier.eynet.xyz
 
+comment_api_url: http://localhost:8000
+
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
@@ -24,7 +26,7 @@ permalink: /:year/:month/:day/:title.html
 
 pagination:
   enabled: true
-  per_page: 3
+  per_page: 5
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   limit: 0

@@ -4,6 +4,8 @@ title: Wahlen zum 22. Parlamentarischen Rat | Wahl zum Generalsekretär | Wahlpr
 author: N. Monnier
 categories: Parlament Abstimmung Partei Volk Wahlen Wahlprogramm
 description: Die Wahlen zum 22. Parlamentarischen Rat wurden eröffnet
+comments: true
+comments_key: 76fa44fbbe0e44e0f96a26445debf411
 ---
 Am 5. März 2018, heute, öffneten die Wahllokale in den Straßen Tírs zur Wahl des 22. Parlamentarischen Rats der Freien Republik Tír na nÒg.
 

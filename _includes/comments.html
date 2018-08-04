@@ -1,0 +1,14 @@
+<script src="/assets/js/comment.js"></script>
+<div class="well article">
+    <h2>
+        {{ trans.comments }}
+        <span id="commentsLength"></span>
+    </h2>
+    <button class="btn btn-info" onclick="getCommentsByArticle('{{ site.comment_api_url }}', '{{ page.comments_key }}', '{{ trans.comments_loading }}')">{{ trans.comments_reload }}</button>
+    <br>
+    <br>
+    <div id="commentList" style="word-wrap: break-word;"></div>
+</div>
+<script>
+    getCommentsByArticle('{{ site.comment_api_url }}', '{{ page.comments_key }}', '{{ trans.comments_loading }}');
+</script>

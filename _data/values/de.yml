@@ -13,3 +13,6 @@ top_posts: Top Beiträge
 author: Autor
 cv: Lebenslauf
 news: Neuigkeiten
+comments: Kommentare
+comments_reload: Neuladen
+comments_loading: Die Kommentare werden derzeitig geladen!
